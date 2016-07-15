@@ -1,0 +1,8 @@
+name: SkyBlock
+main: SkyBlock\SkyBlock
+api: 2.0.0
+version: 1.0.0
+authors: [breakTheFor1, EmreTr1]
+commands:
+    ada:
+        description: SkyBlock Komutu
